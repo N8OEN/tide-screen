@@ -1,0 +1,54 @@
+.hidden {
+  visibility:hidden;
+}
+
+#myLabel {
+  font-size: 85;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%;
+  y: 98%;
+  fill: white;
+}
+
+#side {
+  font-size: 40;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%;
+  y: 100%-70;
+  fill: white;
+}
+
+/* #dated {
+  font-size: 40;
+  font-family: Colfax-Light;
+  text-anchor: start;
+  x: 25%;
+  y: 50;
+  fill: white;
+} */
+
+#dayed {
+  font-size: 40;
+  font-family: Colfax-Light;
+  text-anchor: start;
+  x: 0%;
+  y: 50;
+  fill: white;
+  text-length:32;
+}
+
+#countdown {
+  font-size: 20;
+  font-family: System-Regular;
+  font-weight: regular;
+  x: 0%;
+  y: 15;
+  width: 100%;
+  height: 100%;
+  fill: white;
+  text-length: 64;
+}

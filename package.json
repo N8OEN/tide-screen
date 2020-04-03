@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "d4b52fb6-2b0c-452e-9943-11c864fa40b9",
+    "appType": "app",
+    "appDisplayName": "Messaging",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#f44336",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Messaging"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
